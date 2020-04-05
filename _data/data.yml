@@ -24,14 +24,15 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    langages:
+    languages:
       - idiom: Français
         level: Langue maternelle
 
       - idiom: Anglais
         level: Professionnel
 
-    intérêts:
+    interests:
+      title: Profil
       - item: Ecologie
         link:
 
@@ -51,7 +52,7 @@ career-profile:
       J'affectionne également la qualité de code et je considère que tout ce qui peut être vérifié afin de se retrouver dans les mains du client doit l'être. Que ce soit via des outils d'analyse statiques, des tests unitaires, des tests d'intégrations, des outils d'audit ou via des revues de code.
       
       Enfin, dans la mesure du possible, j'essaie de me contraindre à respecter les [12-factor](https://12factor.net/).
-éducation:
+education:
     - degree: Master informatique
       university: Université de Caen
       time: 2004 - 2006
