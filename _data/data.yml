@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Boris Jamot
-    tagline: Software Crafter
+    tagline: Artisan logiciel
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,20 +25,20 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: French
-        level: Native
+      - idiom: Français
+        level: Langue maternelle
 
-      - idiom: English
-        level: Professional
+      - idiom: Anglais
+        level: Professionnel
 
     interests:
-      - item: Ecology
+      - item: Ecologie
         link:
 
-      - item: Cycling
+      - item: VTT
         link:
 
-      - item: Reading
+      - item: Lecture
         link:
 
 career-profile:
@@ -52,28 +52,14 @@ career-profile:
       
       Enfin, dans la mesure du possible, j'essaie de me contraindre à respecter les [12-factor](https://12factor.net/).
 education:
-    - degree: Master Degree in Computer Science
-      university: University of Caen
+    - degree: Master informatique
+      university: Université de Caen
       time: 2004 - 2006
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: DUT in Computer Science
-      university: University of Caen
+    - degree: DUT informatique
+      university: Université de Caen
       time: 2001 - 2003
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
