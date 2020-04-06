@@ -46,7 +46,7 @@ career-profile:
     summary: |
       Je suis un développeur Web expérimenté en applications backend cloud-ready.
       
-      Après avoir développé une grande partie de ma carrière en `PHP`, je monte depuis quelques années en compétences sur le langage `Go`. J'ai eu l'occasion d'utiliser diverses sources de données (par ordre d'importance: `MySQL`, `MongoDB` et `Postgres` pour ne citer qu'elles). Aujourd'hui, j'attache beaucoup d'importance à la transversalité de mon métier (le fameux profil en "T"). Je considère qu'un développeur doit avoir une bonne connaissance des aspects suivants : configuration, versioning, build, tests, déploiement, monitoring, sécurité...
+      Après avoir développé une grande partie de ma carrière en `PHP`, je monte depuis quelques années en compétences sur le langage `Go`. J'ai eu l'occasion d'utiliser diverses sources de données (par ordre d'importance: `MySQL`, `MongoDB` et `Postgres` pour ne citer qu'elles). Aujourd'hui, j'attache beaucoup d'importance à la transversalité de mon métier (le fameux profil en "T"). Je considère qu'en plus des compétences de dév, un développeur doit avoir une bonne connaissance des aspects suivants : configuration, versioning, build, tests, déploiement, monitoring, sécurité...
       
       J'affectionne également la qualité de code et je considère que tout ce qui peut être vérifié avant de se retrouver dans les mains du client doit l'être. Que ce soit via des outils d'analyse statiques, des tests unitaires, des tests d'intégrations, des outils d'audit ou via des revues de code.
       
@@ -66,21 +66,21 @@ experiences:
       company: Orange, Caen
       details: |
         Conception, développement et test de services financiers dans le Cloud, sur les stacks suivantes:
-        - PHP/MySQL
-        - Java SpringBoot/MongoDB
-        - Go/PostgreSQL
-        Versioning et build via Gitlab + Docker et déploiement sur une infra CaaS basée sur Kubernetes.
+        - `PHP/MySQL`
+        - `Java SpringBoot/MongoDB`
+        - `Go/PostgreSQL`
+
+        Conception 
+        Versioning et build via `Gitlab`, livraison d'images `Docker` et déploiement sur une infra CaaS basée sur `Kubernetes`.
+        Construction de logs sémantiques en JSON pour exploitation via une stack EFK (`Elasticsearch/Fluentd/Kibana`).
+        Création de dashboards techniques et fonctionnels sous Kibana.
+        Instrumentation du code Go pour exploitation via une stack `Prometheus/Grafana`.
     - role: Senior Software Developer
       time: 2009 - 2014
       company: Thales, Caen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Conception, développement et test de services financiers dans le Cloud, sur la stack PHP/MySQL.
+        Utilisation de la forge logicielle `tuleap` et versioning en `svn`.
     - role: Junior Software Developer
       time: 2007 - 2008
       company: Sogeti, Caen
