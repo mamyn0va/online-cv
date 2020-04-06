@@ -83,19 +83,18 @@ experiences:
       time: 2009 - 2014
       company: Thales, Caen
       details: |
-        Conception, développement et test de services financiers dans le Cloud, sur la stack PHP/MySQL.
+        Conception, développement et test de services financiers dans le Cloud, sur la stack `PHP/MySQL`.
+        
         Utilisation de la forge logicielle `tuleap` et versioning en `svn`.
+
+        Livraison de paquets RPMs pour déploiement sur des machines virtuelles `VMware`.
     - role: Junior Software Developer
       time: 2007 - 2008
       company: Sogeti, Caen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Conception et développement de prototypes de services financiers en `PHP/MySQL` et Java Mobile Edition (`J2ME`).
+
+        Responsable du cahier de tests d'une brique de paiement Web.
 projects:
     title: Projets
     intro: >
