@@ -70,11 +70,15 @@ experiences:
         - `Java SpringBoot/MongoDB`
         - `Go/PostgreSQL`
 
-        Conception 
+        Conception d'APIs RESTful JSON.
+
         Versioning et build via `Gitlab`, livraison d'images `Docker` et déploiement sur une infra CaaS basée sur `Kubernetes`.
-        Construction de logs sémantiques en JSON pour exploitation via une stack EFK (`Elasticsearch/Fluentd/Kibana`).
-        Création de dashboards techniques et fonctionnels sous Kibana.
-        Instrumentation du code Go pour exploitation via une stack `Prometheus/Grafana`.
+
+        Construction de logs sémantiques en `JSON` pour exploitation via une stack EFK (`Elasticsearch/Fluentd/Kibana`).
+
+        Création de dashboards techniques et fonctionnels sous `Kibana`.
+
+        Instrumentation du code `Go` pour exploitation via une stack `Prometheus/Grafana`.
     - role: Senior Software Developer
       time: 2009 - 2014
       company: Thales, Caen
