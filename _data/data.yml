@@ -44,11 +44,11 @@ sidebar:
 career-profile:
     title: Profil
     summary: |
-      Je suis un développeur Web expérimenté en applications backend cloud-ready.
+      Je suis un développeur Web expérimenté en applications backend cloud-native.
       
       Après avoir développé une grande partie de ma carrière en `PHP`, je monte depuis quelques années en compétences sur le langage `Go`. J'ai eu l'occasion d'utiliser diverses sources de données (par ordre d'importance: `MySQL`, `MongoDB` et `Postgres` pour ne citer qu'elles). Aujourd'hui, j'attache beaucoup d'importance à la transversalité de mon métier (le fameux profil en "T"). Je considère qu'en plus des compétences de dév, un développeur doit avoir une bonne connaissance des aspects suivants : configuration, versioning, build, tests, déploiement, monitoring, sécurité...
       
-      J'affectionne également la qualité de code et je considère que tout ce qui peut être vérifié avant de se retrouver dans les mains du client doit l'être. Que ce soit via des outils d'analyse statiques, des tests unitaires, des tests d'intégrations, des outils d'audit ou via des revues de code.
+      J'affectionne également la qualité de code et je considère que tout ce qui peut être vérifié avant que le logiciel se retrouve dans les mains du client doit l'être. Que ce soit via des outils d'analyse statiques, des tests unitaires, des tests d'intégrations, des outils d'audit ou via des revues de code.
       
       Enfin, dans la mesure du possible, j'essaie de me contraindre à respecter les [12-factor](https://12factor.net/).
 education:
