@@ -44,9 +44,9 @@ sidebar:
 career-profile:
     title: Profil
     summary: |
-      Je suis un développeur Web expérimenté en applications backend cloud-native.
+      Je suis un développeur Web expérimenté d'applications backend cloud-native dans les services financiers mobiles.
       
-      Après avoir développé une grande partie de ma carrière en `PHP`, je monte depuis quelques années en compétences sur le langage `Go`. J'ai eu l'occasion d'utiliser diverses sources de données (par ordre d'importance: `MySQL`, `MongoDB` et `Postgres` pour ne citer qu'elles). Aujourd'hui, j'attache beaucoup d'importance à la transversalité de mon métier (le fameux profil en "T"). Je considère qu'en plus des compétences de dév, un développeur doit avoir une bonne connaissance des aspects suivants : configuration, versioning, build, tests, déploiement, monitoring, sécurité...
+      Après avoir développé une grande partie de ma carrière en `PHP`, je monte depuis quelques années en compétences sur le langage `Go`. J'ai eu l'occasion d'utiliser diverses sources de données (par ordre d'importance: `MySQL`, `MongoDB` et `Postgres` pour ne citer qu'elles). Aujourd'hui, j'attache beaucoup d'importance à la transversalité de mon métier (le fameux profil en "T": voir [T-shaped skills](https://deux.io/t-shaped/)). J'aime travailleur en équipe et je considère qu'en plus des compétences de dév, un développeur doit avoir une bonne connaissance des aspects suivants : configuration, versioning, build, tests, déploiement, monitoring, sécurité...
       
       J'affectionne également la qualité de code et je considère que tout ce qui peut être vérifié avant que le logiciel se retrouve dans les mains du client doit l'être. Que ce soit via des outils d'analyse statiques, des tests unitaires, des tests d'intégrations, des outils d'audit ou via des revues de code.
       
@@ -65,12 +65,12 @@ experiences:
       time: 2015 - Present
       company: Orange, Caen
       details: |
-        Conception, développement et test de services financiers dans le Cloud, sur les stacks suivantes:
+        Au sein d'une équipe Agile pluridisciplinaire, conception, développement et test de services financiers dans le Cloud, sur les stacks suivantes:
         - `PHP/MySQL`
         - `Java SpringBoot/MongoDB`
         - `Go/PostgreSQL`
 
-        Conception d'APIs RESTful JSON.
+        Conception d'APIs RESTful JSON dans le domaine du Mobile Banking.
 
         Versioning et build via `Gitlab`, livraison d'images `Docker` et déploiement sur une infra CaaS basée sur `Kubernetes`.
 
@@ -98,48 +98,61 @@ experiences:
 projects:
     title: Projets
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Principaux projets auxquels j'ai contribué :
     assignments:
-      - title: Orange Money
+      - title: Netflix / enabler d'authentification
+        link: "#"
+        tagline: "API RESTful de gestion de secrets pour le service Netflix sur la Box Orange (Go/Postgres)"
+
+      - title: Orange Money / sandbox
+        link: "#"
+        tagline: "API RESTful de gestion d'environnements de tests pour le service Orange Money (Go/MongoDB)"
+
+      - title: Orange Money / service de pico-crédit
+        link: "#"
+        tagline: "API XML proposant un service de pico-crédit pour Orange Money (Java SpringBoot/MongoDB)"
+
+      - title: Orange Money / service de paiement
+        link: "#"
+        tagline: "APIs RESTful et XML-RPC de paiement pour le service Orange Money (PHP/MySQL)"
+
+      - title: Orange Money / transfert d'argent international
         link: "https://orangemoney.fr/"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "API XML-RPC de transfert d'argent pour la zone AMEA (PHP/MySQL)"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences
 
     toolset:
       - name: PHP
-        level: 91%
+        level: 89%
+
+      - name: Linux
+        level: 79%
 
       - name: Go
-        level: 73%
+        level: 75%
 
       - name: Postgre, MongoDB & MySQL
-        level: 82%
-
-      - name: Docker
-        level: 77%
+        level: 74%
 
       - name: Gitlab-CI
-        level: 78%
+        level: 73%
+
+      - name: RESTful API / OpenAPI
+        level: 72%
+
+      - name: Cloud-Native
+        level: 71%
+
+      - name: Docker
+        level: 70%
+
+      - name: Agile
+        level: 66%
+
+      - name: Java SpringBoot
+        level: 27%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
