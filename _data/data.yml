@@ -102,11 +102,11 @@ projects:
     assignments:
       - title: Netflix / enabler d'authentification
         link: "#"
-        tagline: "API RESTful de gestion de secrets pour le service Netflix sur la Box Orange (Go/Postgres)"
+        tagline: "API REST/JSON de gestion de secrets pour le service Netflix sur la Box Orange (Go/Postgres)"
 
       - title: Orange Money / sandbox
         link: "#"
-        tagline: "API RESTful de gestion d'environnements de tests pour le service Orange Money (Go/MongoDB)"
+        tagline: "API REST/JSON de gestion d'environnements de tests pour le service Orange Money (Go/MongoDB)"
 
       - title: Orange Money / service de pico-crédit
         link: "#"
@@ -114,7 +114,7 @@ projects:
 
       - title: Orange Money / service de paiement
         link: "#"
-        tagline: "APIs RESTful et XML-RPC de paiement pour le service Orange Money (PHP/MySQL)"
+        tagline: "Multiples APIs (REST/JSON, XML et XML-RPC) de paiement pour le service Orange Money au sein d'une architecture distribuée (PHP/MySQL) et offrant également une interface web d'administration"
 
       - title: Orange Money / transfert d'argent international
         link: "https://orangemoney.fr/"
